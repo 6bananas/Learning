@@ -79,7 +79,7 @@
   | unsigned      | %u     | %o     | %x       |
   | unsigned long | %lu    | %lo    | %lx      |
 
-  x 为小写，则 a~f 也要小写；X 为大写，则 A~F 要大写。
+  x 为小写，则 a\~f 也要小写；X 为大写，则 A\~F 要大写。
 
   实数：
 
