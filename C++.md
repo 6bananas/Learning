@@ -68,7 +68,7 @@
 
 - 整数后缀：l 或 L - long、u 或 U - unsigned、lu 或 LU - unsigned long 。
 
-- float 精度 7~8 位，double 精度 15~16 位。
+- float 精度 7\~8 位，double 精度 15\~16 位。
 
 - 格式控制说明：
 
