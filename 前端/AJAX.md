@@ -1,6 +1,6 @@
-# 概述
+# 简介
 
-AJAX，Asynchronous JavaScript and XML，异步的 JavaScript 和 XML 。
+AJAX ，Asynchronous JavaScript and XML ，异步的 JavaScript 和 XML 。
 
 AJAX 不是新的编程语言，而是一种使用现有标准的新方法，一种用于创建动态网页的技术。
 
